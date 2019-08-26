@@ -1,0 +1,27 @@
+/*--------------------------------------------------------------
+
+  Template Name: Subash Ecommerce Responsive Bootstrap Template
+  Description: This is html5 template
+  Author: codecarnival
+  Version: 1.0
+  Design and Developed by: codecarnival
+
+Note: This is the file where you can add your custom styles to change the look of the theme. But don't modify "style.css" file.
+
+---------------------------------------------------------------*/
+
+/* ----------------------------------------------------
+	You can put your custom css code here: 
+-------------------------------------------------------*/
+.btn-dark-theme {
+    color: #fff;
+    background-color: #303030;
+    border-color: #303030; /*set the color you want here*/
+    border-radius: 0px;
+}
+.btn-dark-theme:hover, .btn-dark-theme:focus, .btn-dark-theme:active, .btn-dark-theme.active, .open>.dropdown-toggle.btn-dark-theme {
+    color: #fff;
+    background-color: #2C3E50;
+    border-color: #2C3E50; /*set the color you want here*/
+    color: #fff;
+}
